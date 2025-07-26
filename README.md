@@ -58,7 +58,7 @@ I'm an **Associate Prompt Engineer at Nvidia**, with a strong background in AI, 
 
 ## 📌 Featured Project
 
-🔹 **[Pneumonia Detection Using Chest X-rays](https://github.com/SakshiRai/Pneumonia-Detection-Xray)**  
+🔹 **[Pneumonia Detection Using Chest X-rays](https://github.com/Sakshi3110-2843/Capstone_Project)**  
 A deep learning-based CNN model trained on chest X-ray images to classify bacterial and viral pneumonia with high accuracy. Utilized data augmentation, transfer learning, and performance evaluation metrics such as accuracy, precision, recall, and F1-score.
 
 ---
