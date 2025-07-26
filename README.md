@@ -56,13 +56,10 @@ I'm an **Associate Prompt Engineer at Nvidia**, with a strong background in AI, 
 
 ---
 
-## 📌 Featured Projects
+## 📌 Featured Project
 
-🔹 **[AI-driven Chatbot](https://github.com/SakshiRai/AI-Chatbot)** - A smart chatbot using OpenAI’s GPT-4.
-
-🔹 **[Stock Market Prediction](https://github.com/SakshiRai/Stock-Prediction)** - Machine learning model predicting stock trends.
-
-🔹 **[Financial Data Visualization](https://github.com/SakshiRai/Finance-Analysis)** - Interactive dashboards with Tableau.
+🔹 **[Pneumonia Detection Using Chest X-rays](https://github.com/SakshiRai/Pneumonia-Detection-Xray)**  
+A deep learning-based CNN model trained on chest X-ray images to classify bacterial and viral pneumonia with high accuracy. Utilized data augmentation, transfer learning, and performance evaluation metrics such as accuracy, precision, recall, and F1-score.
 
 ---
 
